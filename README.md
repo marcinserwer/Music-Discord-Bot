@@ -13,4 +13,4 @@ So I decided to create my own bot. He will play songs that will be given to him,
 
 ### Bugs:
 1.Rarely, however, when listening to or launching a song, such a notification occurs and the song is not played
-discord.player ffmpeg process 12268 successfully terminated with return code of 1.
+-discord.player ffmpeg process 12268 successfully terminated with return code of 1.
