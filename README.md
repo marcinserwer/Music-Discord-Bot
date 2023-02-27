@@ -5,6 +5,7 @@ So I decided to create my own bot. He will play songs that will be given to him,
 ### Features (More features to come)
 - "/play" Plays songs from the given link
 - "/stop" Stops the currently playing music
+- "/skip" Plays the next song in the list
 
 ### Requirement:
 - Ffmpeg
